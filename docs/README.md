@@ -1,6 +1,6 @@
 # དྲ་རྒྱའི་ནང་སྒྲིག་སྟངས་ཀྱི་དཔེ་མཚོན།
 
-![image alt text](https://github.com/bdrc-reader/mugey-gonpa/blob/master/docs/img/mugeygonpa.jpg)
+![image alt text](https://raw.githubusercontent.com/bdrc-reader/mugey-gonpa/master/docs/img/mugeygonpa.png)
 
 <br>
 <br>
