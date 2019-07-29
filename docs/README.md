@@ -1,6 +1,6 @@
 # དྲ་རྒྱའི་ནང་སྒྲིག་སྟངས་ཀྱི་དཔེ་མཚོན།
 
-![image alt text](https://raw.githubusercontent.com/bdrc-reader/gyalyongsachen/master/docs/img/sachen.jpeg)
+![image alt text](https://github.com/bdrc-reader/mugey-gonpa/blob/master/docs/img/mugeygonpa.jpg)
 
 <br>
 <br>
