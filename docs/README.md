@@ -1,4 +1,10 @@
-# དྲ་རྒྱའི་ནང་སྒྲིག་སྟངས་ཀྱི་དཔེ་མཚོན།
+
+<p align="center">
+  <a href="https://github.com/Esukhia/derge-kangyur/blob/master/README.bo.md">བོད་ཡིག</a> |
+  <span>English</span> |
+  <a href="https://github.com/Esukhia/derge-kangyur/blob/master/README.zh-cn.md">简体中文</a> |
+  <a href="https://github.com/Esukhia/derge-kangyur/blob/master/README.zh-tw.md">繁體中文</a>
+</p>
 
 ![image alt text](https://raw.githubusercontent.com/bdrc-reader/mugey-gonpa/master/docs/img/mugeygonpa.png)
 
@@ -6,23 +12,18 @@
 <br>
 <br>
 
-# དཔེ་ཀློག་སྒེའུ་ཁུངས་ཁག
+# དམུ་དགེ་བཀྲ་ཤིས་འཁོར་ལོའི་དགོན་གྱི་དཔེ་ཀློག་སྒེའུ་ཁུངས་ཁག
 
-dsdsdflkdjs
 
-# རང་དགོན་གྱིས་པར་སྐྱུན་བྱས་པའི་དཔེ་ཆ།
+
+# འཛིན་གྲྭ་སོ་སོའི་སྦྱོང་བྱ་གཞུང་ཆེནཁག
 ldfksajfc;lkxjfnx
 
-# དཔེ་ཀློག་སྒེའུ་ཁུང་དྲ་རྒྱའི་ནང་བསྒྲིག་ཚུལ།
-ldfksajfc;lkxjfnxz
+# རྒྱུན་ལྡན་དགོན་པའི་འདོན་ཆའི་སྐོར།
 
-# དཔེ་ཀློག་སྒེའུ་ཁུང་གསར་དུ་སྒྲིག་ཚུལ།
-ldfksajfc;lkxjfnxz
+## ཆོ་གའི་སྐོར།
 
-# དཀར་ཆག་བསྐྱར་བཅོས་བྱེད་ཚུལ།
-ldfksajfc;lkxjfnxz
-
-# ཡི་གེ་བཏགས་མ་སྣོན་ཚུལ།
+# འབྲེལ་ཡོད་ཀྱི་སྐྱེས་ཆེན་སོ་སོའི་་གསུང་འབུམ།
 ldfksajfc;lkxjfnxz
 
 [googlesheep-link](https://docs.google.com/spreadsheets/d/19EpDM_n2YfjSKBdxkmAku20I3TeFxJVlnAev7V48I8I/edit#gid=0)
