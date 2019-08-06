@@ -1,7 +1,7 @@
 
 <p align="center">
-  <a href="https://bdrc-reader.github.io/mugey-gonpa/">མདུན་ངོས།</a>•
-  <a href="https://bdrc-reader.github.io/mugey-gonpa/%E0%BD%A0%E0%BD%9B%E0%BD%B2%E0%BD%93%E0%BC%8B%E0%BD%82%E0%BE%B2%E0%BE%AD%E0%BC%8B%E0%BD%A6%E0%BD%BC%E0%BC%8B%E0%BD%A6%E0%BD%BC%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%A6%E0%BE%A6%E0%BE%B1%E0%BD%BC%E0%BD%84%E0%BC%8B%E0%BD%96%E0%BE%B1%E0%BC%8B%E0%BD%81%E0%BD%82">འཛིན་གྲྭ་སོ་སོའི་སྦྱོང་བྱ་ཁག</a> •
+  <a href="https://bdrc-reader.github.io/mugey-gonpa/">མདུན་ངོས།</a> •
+  <a href="https://bdrc-reader.github.io/mugey-gonpa/zendra">འཛིན་གྲྭ་སོ་སོའི་སྦྱོང་བྱ་ཁག</a> •
     <span>དམུ་དགེ་དགོན་པའི་སྒྲུབ་མཆོད་ཀྱི་སྐོར།</span>
   </p>
   
