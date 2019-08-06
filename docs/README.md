@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/Esukhia/derge-kangyur/blob/master/README.bo.md">བོད་ཡིག</a> |
+  <a href="https://github.com/bdrc-reader/mugey-gonpa/blob/master/docs/%E0%BD%A0%E0%BD%9B%E0%BD%B2%E0%BD%93%E0%BC%8B%E0%BD%82%E0%BE%B2%E0%BE%AD%E0%BC%8B%E0%BD%A6%E0%BD%BC%E0%BC%8B%E0%BD%A6%E0%BD%BC%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%A6%E0%BE%A6%E0%BE%B1%E0%BD%BC%E0%BD%84%E0%BC%8B%E0%BD%96%E0%BE%B1%E0%BC%8B%E0%BD%81%E0%BD%82.md#%E0%BD%A0%E0%BD%9B%E0%BD%B2%E0%BD%93%E0%BD%82%E0%BE%B2%E0%BE%AD%E0%BD%A6%E0%BD%BC%E0%BD%A6%E0%BD%BC%E0%BD%A0%E0%BD%B2%E0%BD%A6%E0%BE%A6%E0%BE%B1%E0%BD%BC%E0%BD%84%E0%BD%96%E0%BE%B1%E0%BD%81%E0%BD%82">འཛིན་གྲྭ་སོ་སོའི་སྦྱོང་བྱ་ཁག</a> |
   <span>English</span> |
   <a href="https://github.com/Esukhia/derge-kangyur/blob/master/README.zh-cn.md">简体中文</a> |
   <a href="https://github.com/Esukhia/derge-kangyur/blob/master/README.zh-tw.md">繁體中文</a>
