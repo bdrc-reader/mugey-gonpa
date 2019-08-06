@@ -2,7 +2,7 @@
   <a href="https://bdrc-reader.github.io/mugey-gonpa/">མདུན་ངོས།</a> • <span>འཛིན་གྲྭ་སོ་སོའི་སྦྱོང་བྱ་ཁག</span> •
   <a href="https://bdrc-reader.github.io/mugey-gonpa/drubchod">དགོན་པའི་སྒྲུབ་མཆོད་ཀྱི་སྐོར།</a></p>
 
-<iframe src="http://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027&origin=website.com"></iframe>
+<iframe src="http://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027&origin=website.com">width="100%" height="100%"></iframe>
 
 
 
