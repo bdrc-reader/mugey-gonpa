@@ -1,7 +1,7 @@
 
 <p align="center">
   <span>དཀར་ཆག</span>
-  <a href="https://github.com/bdrc-reader/mugey-gonpa/blob/master/docs/%E0%BD%A0%E0%BD%9B%E0%BD%B2%E0%BD%93%E0%BC%8B%E0%BD%82%E0%BE%B2%E0%BE%AD%E0%BC%8B%E0%BD%A6%E0%BD%BC%E0%BC%8B%E0%BD%A6%E0%BD%BC%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%A6%E0%BE%A6%E0%BE%B1%E0%BD%BC%E0%BD%84%E0%BC%8B%E0%BD%96%E0%BE%B1%E0%BC%8B%E0%BD%81%E0%BD%82.md#%E0%BD%A0%E0%BD%9B%E0%BD%B2%E0%BD%93%E0%BD%82%E0%BE%B2%E0%BE%AD%E0%BD%A6%E0%BD%BC%E0%BD%A6%E0%BD%BC%E0%BD%A0%E0%BD%B2%E0%BD%A6%E0%BE%A6%E0%BE%B1%E0%BD%BC%E0%BD%84%E0%BD%96%E0%BE%B1%E0%BD%81%E0%BD%82">༡ འཛིན་གྲྭ་སོ་སོའི་སྦྱོང་བྱ་ཁག</a>
+  <a href="https://bdrc-reader.github.io/mugey-gonpa/%E0%BD%A0%E0%BD%9B%E0%BD%B2%E0%BD%93%E0%BC%8B%E0%BD%82%E0%BE%B2%E0%BE%AD%E0%BC%8B%E0%BD%A6%E0%BD%BC%E0%BC%8B%E0%BD%A6%E0%BD%BC%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%A6%E0%BE%A6%E0%BE%B1%E0%BD%BC%E0%BD%84%E0%BC%8B%E0%BD%96%E0%BE%B1%E0%BC%8B%E0%BD%81%E0%BD%82">༡ འཛིན་གྲྭ་སོ་སོའི་སྦྱོང་བྱ་ཁག</a>
   <a href="https://bdrc-reader.github.io/mugey-gonpa/%E0%BD%91%E0%BD%98%E0%BD%B4%E0%BC%8B%E0%BD%91%E0%BD%82%E0%BD%BA%E0%BC%8B%E0%BD%91%E0%BD%82%E0%BD%BC%E0%BD%93%E0%BC%8B%E0%BD%94%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B4%E0%BD%96%E0%BC%8B%E0%BD%98%E0%BD%86%E0%BD%BC%E0%BD%91%E0%BC%8B%E0%BD%80%E0%BE%B1%E0%BD%B2%E0%BC%8B%E0%BD%A6%E0%BE%90%E0%BD%BC%E0%BD%A2%E0%BC%8D">༢ སྒྲུབ་མཆོད་ཀྱི་སྐོར།</a></p>
 
 ![image alt text](https://raw.githubusercontent.com/bdrc-reader/mugey-gonpa/master/docs/img/mugeygonpa.png)
