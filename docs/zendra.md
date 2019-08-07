@@ -6,8 +6,8 @@
 
 <iframe src="http://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027001&origin=website.com" width="100%" height="100%"></iframe>
 
-
-
+<br>
+<br>
 
 # འཛིན་གྲྭ་སོ་སོའི་སྦྱོང་བྱ་ཁག
 
