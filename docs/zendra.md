@@ -9,11 +9,6 @@
 <br>
 <br>
 
-### དཔེ་ཀློག་སྒེའུ་ཁུང་གི་ iframe
-```
-<iframe src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027001&origin=website.com" width="100%" height="100%"></iframe>
-```
-
 
 # དཔེ་ཀློག་སྒེའུ་ཁུང་འདིའི་ངོ་སྤྲོད།
 
@@ -32,3 +27,8 @@
 **བློ་རྟགས་གཉིས།** བློ་རིག་འཛིན་གྲྭ། རྟགས་རིགས་འཛིན་གྲྭ་བཅས་སོ།།
 
 **བསྡུས་གྲྭ་འཛིན་གྲྭ་གསུམ་སྟེ།**  བསྡུས་ཆེན་འཛིན་གྲྭ། ཁ་དོག་གོང་མའི་འཛིན་གྲྭ། ཁ་དོག་དཀར་དམར་འཛིན་གྲྭ་བཅས་སོ།། 
+
+### དཔེ་ཀློག་སྒེའུ་ཁུང་གི་ iframe
+```
+<iframe src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027001&origin=website.com" width="100%" height="100%"></iframe>
+```
