@@ -4,7 +4,7 @@
 
 ### འཛིན་གྲྭ་སོ་སོའི་སྦྱོང་བྱ་ཁག་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
-<iframe src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027001&origin=website.com" width="100%" height="100%"></iframe>
+<iframe src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027001&origin=https://bdrc-reader.github.io/mugey-gonpa/" width="100%" height="100%"></iframe>
 
 <br>
 <br>
