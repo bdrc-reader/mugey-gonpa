@@ -2,14 +2,14 @@
   <a href="https://bdrc-reader.github.io/mugey-gonpa/">མདུན་ངོས།</a> • <span>འཛིན་གྲྭ་སོ་སོའི་སྦྱོང་བྱ་ཁག</span> •
   <a href="https://bdrc-reader.github.io/mugey-gonpa/drubchod">དགོན་པའི་སྒྲུབ་མཆོད་ཀྱི་སྐོར།</a></p>
 
-## འཛིན་གྲྭ་སོ་སོའི་སྦྱོང་བྱ་ཁག་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
+### འཛིན་གྲྭ་སོ་སོའི་སྦྱོང་བྱ་ཁག་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
 <iframe src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027001&origin=website.com" width="100%" height="100%"></iframe>
 
 <br>
 <br>
 
-## དཔེ་ཀློག་སྒེའུ་ཁུང་གི་ iframe
+### དཔེ་ཀློག་སྒེའུ་ཁུང་གི་ iframe
 ```
 <iframe src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027001&origin=website.com" width="100%" height="100%"></iframe>
 ```
