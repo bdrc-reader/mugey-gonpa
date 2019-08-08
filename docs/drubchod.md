@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://bdrc-reader.github.io/mugey-gonpa/">མདུན་ངོས།</a> •
   <a href="https://bdrc-reader.github.io/mugey-gonpa/zendra">འཛིན་གྲྭ་སོ་སོའི་སྦྱོང་བྱ་ཁག</a> •
-    <span>དམུ་དགེ་དགོན་པའི་སྒྲུབ་མཆོད་ཀྱི་སྐོར།</span>
+    <span>དམུ་དགེ་དགོན་པའི་སྒྲུབ་མཆོད་ཀྱི་སྐོར།</span> • <a href="https://bdrc-reader.github.io/mugey-gonpa/sungbum">གསུང་འབུམ་གྱི་སྐོར།</a>
   </p>
   
 
