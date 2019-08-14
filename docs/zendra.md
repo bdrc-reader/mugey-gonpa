@@ -1,6 +1,6 @@
 <p align="center"> 
-  <a href="https://bdrc-reader.github.io/mugey-gonpa/">མདུན་ངོས།</a> • <span>འཛིན་གྲྭ་སོ་སོའི་སྦྱོང་བྱ་ཁག</span> •
-  <a href="https://bdrc-reader.github.io/mugey-gonpa/drubchod">དགོན་པའི་སྒྲུབ་མཆོད་ཀྱི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/mugey-gonpa/sungbum">གསུང་འབུམ་གྱི་སྐོར།</a></p>
+  <a href="https://bdrc-reader.github.io/mugey-gonpa/">མདུན་ངོས།</a> • <span>མཚན་ཉིད་ཀྱི་སྐོར།</span> •
+  <a href="https://bdrc-reader.github.io/mugey-gonpa/drubchod">སྒྲུབ་མཆོད་ཀྱི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/mugey-gonpa/sungbum">གསུང་འབུམ་གྱི་སྐོར།</a></p>
 
 ### འཛིན་གྲྭ་སོ་སོའི་སྦྱོང་བྱ་ཁག་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
