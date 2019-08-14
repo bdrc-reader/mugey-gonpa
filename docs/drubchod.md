@@ -6,7 +6,7 @@
   </p>
   
 
-<iframe src="http://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027002&origin=website.com" width="100%" height="100%"></iframe>
+<iframe src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027002&origin=website.com" width="100%" height="500%"></iframe>
 
 <br>
 <br>
