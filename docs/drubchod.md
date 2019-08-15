@@ -1,12 +1,12 @@
 
 <p align="center">
   <a href="https://bdrc-reader.github.io/mugey-gonpa/">མདུན་ངོས།</a> •
-  <a href="https://bdrc-reader.github.io/mugey-gonpa/zendra">མཚན་ཉིད།</a> •
+  <a href="https://bdrc-reader.github.io/mugey-gonpa/tsannyid">མཚན་ཉིད།</a> •
     <span>སྒྲུབ་མཆོད་ཀྱི་སྐོར།</span> • <a href="https://bdrc-reader.github.io/mugey-gonpa/sungbum">གསུང་འབུམ་གྱི་སྐོར།</a>
   </p>
   
 
-<iframe src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027002&origin=website.com" width="100%" height="600%"></iframe>
+<iframe src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027002&origin=website.com" width="100%" height="600"></iframe>
 
 <br>
 <br>
