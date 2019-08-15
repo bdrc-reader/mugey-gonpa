@@ -35,18 +35,6 @@
 
 
 
-
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>Demo Viewer</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="http://library.bdrc.io/scripts/src/lib/mirador/css/mirador-combined.css">
-    <link rel="stylesheet" type="text/css" href="http://library.bdrc.io/scripts/src/lib/mirador.css"/>
-  </head>
-  <body>
     <div id="viewer" class="demo"></div>
     <script src="http://library.bdrc.io/scripts/src/lib/mirador/mirador.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@dbmdz/mirador-keyboardnavigation@1.1.0/keyboardNavigation.min.js"></script>      
@@ -76,5 +64,3 @@
          }
       },100)
     </script>
-  </body>
-</html>
