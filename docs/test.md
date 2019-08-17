@@ -26,7 +26,7 @@
 <body style="margin:0px">
   <iframe
     style="position:fixed;width:100%;height:100%;border:none;"
-    src="http://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W22084&origin=website.com">
+    src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W22084&origin=website.com">
   </iframe>
 </body>
 
@@ -38,8 +38,8 @@
 <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.11/lodash.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/requirejs@2.3.6/require.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/jsewts@1.0.2/src/jsewts.min.js"></script>
-<script type="module" src="http://library.bdrc.io/scripts/src/lib/transliterators.js"></script>
-<script type="module" src="http://library.bdrc.io/scripts/src/lib/miradorSetup.js"></script>
+<script type="module" src="https://library.bdrc.io/scripts/src/lib/transliterators.js"></script>
+<script type="module" src="https://library.bdrc.io/scripts/src/lib/miradorSetup.js"></script>
 <script type="module">
   let miradorConfig, miradorSetUI
   async function init() {
