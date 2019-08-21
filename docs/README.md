@@ -9,8 +9,9 @@
 ![image alt text](https://raw.githubusercontent.com/bdrc-reader/mugey-gonpa/master/docs/img/mugeygonpa.png)
 
 
-<iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027002&origin=https://bdrc-reader.github.io/mugey-gonpa/"width="100%" height="600"></iframe>
+&origin=https://bdrc-reader.github.io/mugey-gonpa/"width="100%" height="600">
 
+<iframe allowfullscreen src="http://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027002&origin=website.com&lang=bo-x-ewts,sa-x-iast,zh-latn-pinyin"></iframe>
 
 <br>
 <br>
