@@ -5,15 +5,7 @@
   <a href="https://bdrc-reader.github.io/mugey-gonpa/drubchod">སྒྲུབ་མཆོད།</a> • 
 <a href="https://bdrc-reader.github.io/mugey-gonpa/sungbum">གསུང་འབུམ།</a> • <a href="https://bdrc-reader.github.io/mugey-gonpa/chojung">ཆོས་འབྱུང་།</a> • <a href="https://bdrc-reader.github.io/mugey-gonpa/natsok">སྣ་ཚོགས།</a></p>
 
-
 ![image alt text](https://raw.githubusercontent.com/bdrc-reader/mugey-gonpa/master/docs/img/mugeygonpa.png)
-
-
-&origin=https://bdrc-reader.github.io/mugey-gonpa/"width="100%" height="600">
-
-
-<iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027&origin=https://bdrc-reader.github.io/mugey-gonpa/"width="100%" height="600"></iframe>
-
 
 <br>
 <br>
