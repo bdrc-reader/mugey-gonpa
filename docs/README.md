@@ -8,6 +8,11 @@
 
 ![image alt text](https://raw.githubusercontent.com/bdrc-reader/mugey-gonpa/master/docs/img/mugeygonpa.png)
 
+
+<iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W22084&origin=https://bdrc-reader.github.io/mugey-gonpa/"width="100%" height="600"></iframe>
+
+
+
 <br>
 <br>
 
