@@ -9,7 +9,7 @@
 ![image alt text](https://raw.githubusercontent.com/bdrc-reader/mugey-gonpa/master/docs/img/mugeygonpa.png)
 
 
-<iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027002&origin=https://bdrc-reader.github.io/mugey-gonpa/"width="100%" height="600"></iframe>
+<iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027002&origin=website.com&lang=bo-x-ewts,sa-x-iast,zh-latn-pinyin"></iframe>
 
 
 
@@ -17,8 +17,6 @@
 <br>
 
 # དམུ་དགེ་བཀྲ་ཤིས་འཁོར་ལོའི་དགོན་གྱི་ངོ་སྤྲོད་མདོར་བསྡུས།
-
-<iframe allowfullscreen src="http://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027002&origin=website.com&lang=bo-x-ewts,sa-x-iast,zh-latn-pinyin"></iframe>
 
 དམུ་དགེ་བཀྲ་ཤིས་འཁོར་ལོའི་དགོན་ནི་་ཕྱི་ལོ་ ༡༣༩༩ དང་། རྗེ་རིན་པོ་ཆེ་བློ་བཟང་གྲགས་པའི་དཔལ་དགུང་ལོ་ཞེ་གསུམ་ཡས་མས་ཤིག་གི་སྐབས་སུ། རྗེ་ཉིད་ཀྱི་ཐུགས་སྲས་སྔ་ཚལ་བཞིའི་ཡ་གྱལ་མཁན་ཆེན་ངག་དབང་གྲགས་པས་མདོ་སྨད་ཕྱོགས་སུ་དགོན་པ་བརྒྱ་དང་བརྒྱད་བཏབ་པའི་ཁྲོད་ཀྱི་གཅིག་དང། རྗེ་རང་ཉིད་ཀྱི་ལུང་གིས་ཟིན་པའི་དགེ་ལུགས་དགོན་པ་ཞིག་ཡིན། དགོན་པ་འདིའི་འཆད་ཉན་བྱེད་ས་གཙོ་བོ་ནི། རྒྱལ་བ་ཐུབ་པའི་དབང་པོ་ནས་བརྒྱུད་པའི་མདོ་སྔགས་གཉིས་ཡིན། སྤྱིར་དགོན་པ་གང་མང་ཞིག་ལ་མདོ་ཕྱོགས་ཀྱི་མཚན་ཉིད་རིག་པ་སློབ་གཉེར་གྱི་ལྟེ་བར་འཛིན་པའི་མཚན་ཉིད་གྲྭ་ཚང་དང་། སྔགས་ཕྱོགས་རྒྱུད་སྡེ་བཞི་སོགས་སློབ་གཉེར་གྱི་ལྟེ་བར་འཛིན་པའི་རྒྱུད་གྲྭ་བཅས་དགོན་པ་གཅིག་ལ་གྲྭ་ཚང་གཉིས་རེ་ཡོད་མོད། དམུ་དགེ་དགོན་ལ་མཚོན་ན་དམིགས་བསལ་གྱིསམཚན་ཉིད་གྲྭ་ཚང་དང་རྒྱུད་གྲྭ་སོགས་ལོགས་སུ་མེད་པར་གཉིས་ཆ་ཟུང་འབྲེལ་གྱིས་སློབ་གཉེར་བྱེད་བཞིན་ཡོད། དེའི་ཕྱིར་ཚོགས་དང་ཆོས་གྲྭ་ཧ་ཅང་ལྕི། 
 
