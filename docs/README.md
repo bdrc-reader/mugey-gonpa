@@ -1,9 +1,9 @@
 
 <p align="center">
-  <span>མདུན་ངོས།</span> •
+  <span>མདུན་ངོས།</span> • <a href="https://bdrc-reader.github.io/mugey-gonpa/katan">བཀའ་བསྟན།</a> • 
   <a href="https://bdrc-reader.github.io/mugey-gonpa/tsannyid">མཚན་ཉིད།</a> •
-  <a href="https://bdrc-reader.github.io/mugey-gonpa/drubchod">སྒྲུབ་མཆོད་ཀྱི་སྐོར།</a> • 
-<a href="https://bdrc-reader.github.io/mugey-gonpa/sungbum">གསུང་འབུམ་གྱི་སྐོར།</a></p>
+  <a href="https://bdrc-reader.github.io/mugey-gonpa/drubchod">སྒྲུབ་མཆོད།</a> • 
+<a href="https://bdrc-reader.github.io/mugey-gonpa/sungbum">གསུང་འབུམ།</a> • <a href="https://bdrc-reader.github.io/mugey-gonpa/chojung">ཆོས་འབྱུང་།</a> • <a href="https://bdrc-reader.github.io/mugey-gonpa/natsok">སྣ་ཚོགས།</a></p>
 
 
 ![image alt text](https://raw.githubusercontent.com/bdrc-reader/mugey-gonpa/master/docs/img/mugeygonpa.png)
