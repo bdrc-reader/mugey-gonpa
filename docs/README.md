@@ -12,7 +12,7 @@
 &origin=https://bdrc-reader.github.io/mugey-gonpa/"width="100%" height="600">
 
 
-<iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027&origin=https://bdrc-reader.github.io/mugey-gonpa&lang=bo"></iframe>
+<iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027&origin=https://bdrc-reader.github.io/mugey-gonpa/"width="100%" height="600"></iframe>
 
 
 <br>
