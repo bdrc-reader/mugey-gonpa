@@ -10,7 +10,14 @@
 <iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027004&origin=website.com" width="100%" height="600"></iframe>
 
 <br>
-<br>
+
+# དཔེ་ཀློག་སྒེའུ་ཁུང་ངོ་བཤུ་བྱ་ཚུལ།
+
+iframe ཀྱི་ཨང་བརྡ། གཤམ་དུ་བཀོད་པའི་དཔེ་ཀློག་སྒེའུ་ཁུང་གི་ཨང་བརྡ་རྣམས་ངོ་བཤུ་བྱས་ཏེ་སྒེར་དང་ཚོགས་པའི་དྲ་ཚིགས་གང་གི་ནང་བླུག་ཀྱང་དཔེ་ཀློག་སྒེའུ་ཁུང་དེ་ཐད་ཀར་བཀོལ་ཐུབ་པ་ཡིན།
+
+```
+<iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027004&origin=website.com" width="100%" height="600"></iframe>
+```
 
 # འདིར་བཞུགས་པའི་གསུང་འབུམ་ཁག་གི་ངོ་སྤྲོད།
 
