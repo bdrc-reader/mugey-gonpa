@@ -16,7 +16,7 @@
 
 གོང་དུ་བཤད་པ་ལྟར་ཁྱེད་ལ་མཁོ་བའི་དཔེ་ཆ་རེ་རེའི་མཚན་བྱང་དང་བརྩམས་ཆོས་ཨང་ཡང་ན་རྩོམ་པ་པོའི་མཚན་གང་བྲིས་ནས་བཙལ་རུང་ཁྱེད་ལ་དགོས་པའི་དཔེ་ཆ་དེ་རྙེད་ཐུབ།
 
-![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/01.png)
+![images](https://github.com/bdrc-reader/mugey-gonpa/blob/master/docs/img/01.png)
 
 <br>
 <br>
@@ -29,7 +29,7 @@
 
 <br>
 
-![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/02.png)
+![images](https://github.com/bdrc-reader/mugey-gonpa/blob/master/docs/img/02.png)
 
 <br>
 <br>
@@ -38,7 +38,7 @@
 
 དཔེ་རིས་ངོས་སུ་གསལ་བ་ལྟར་དཔེ་ཆ་དེའི་དཀར་ཆག་བཟོས་ཡོད་མེད་དང་། དཔེ་ཆ་དེ་དང་འབྲེལ་བའི་གནས་ཚུལ་གཞན་རྣམས་འདིའི་མཚམས་ནས་བལྟ་ཐུབ་པ་ཡིན། བཙལ་བྱ་དེའི་བརྩམས་ཆོས་ཨང་ཡང་འདི་ནས་ལེན་དགོས་པ་ཡིན།
 
-![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/03.png)
+![images](https://github.com/bdrc-reader/mugey-gonpa/blob/master/docs/img/03.png)
 
 <br>
 <br>
@@ -55,7 +55,7 @@
 
 **READ ME** སྡེ་ཚན་འདི་གསུམ་མངོན་ཡོང་། དང་པོ་docs ཟེར་བའི་སྟེང་བསྣུན་དགོས།
 
-![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/04.png)
+![images](https://github.com/bdrc-reader/mugey-gonpa/blob/master/docs/img/04.png)
 
 <br>
 <br>
@@ -66,14 +66,14 @@
 
 གཤམ་གྱི་དཔེ་རིས་ངོས་སུ་གསལ་བ་ལྟར་ཁྱེད་ཀྱིས་བསྐྱར་སྒྲིག་བྱེད་འདོད་པའི་སྡེ་ཚན་དེའི་སྟེང་བསྣུན་ན་ཐད་ཀར་སྒོ་ཕྱེ་ཡོང་། ད་གཟོད་ཁྱེད་ཀྱིས་བསྐྱར་སྒྲིག་དང་ཡང་ན་ཁ་གསབ་བཅས་བྱེད་ཐུབ་པ་ཡིན། སྡེ་ཚན་གསར་པ་བཟོ་དགོས་ཚེ་སྒྲིག་སྟེགས་ཀྱི་སྒང་ལ་ **Create new file** འདིའི་སྟེང་བསྣུན་ཏེ་མིང་གསར་པ་འདོགས་དགོས། མིང་གི་མཇུག་དེ་མ་ཐག .md ངེས་པར་འབྲི་དགོས། དཔེར་ན། dolma.md ལྟ་བུ།
 
-![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/05.png)
+![images](https://github.com/bdrc-reader/mugey-gonpa/blob/master/docs/img/05.png)
 
 <br>
 <br>
 
 གཤམ་གསལ་ལྟར་པར་ངོས་ཀྱི་ཟུར་གཡས་པའི་སྨྱུ་གུའི་རྟགས་དེའི་སྟེང་བསྣུན་ན་ཤོག་ངོས་འདིའི་རྩོམ་སྒྲིག་བྱེད་གནས་ཁ་ཕྱེ་ཡོང་། གོང་གི་པར་ངོས་ཀྱི་དམར་རྟགས་ནང་གི་སྡེ་ཚན་རྣམས་ནི་གཤམ་བཀོད་ཀྱི་པར་ངོས་སུ་གསལ་བའི་སྡེ་ཚན། མདུན་ངོས། བཤད་གྲྭ། གཞུང་ལུགས། སོགས་ཀྱི་ནང་ངོས་ཡིན།
 
-![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/06.png)
+![images](https://github.com/bdrc-reader/mugey-gonpa/blob/master/docs/img/06.png)
 
 <br>
 <br>
@@ -84,7 +84,7 @@
 
 སྡེ་ཚན་འདི་སྒོ་ཕྱེས་རྗེས་ཁྱེད་ཀྱིས་རྩོམ་སྒྲིག་བྱེད་གནས་དངོས་མཐོང་ཡོང་བ་དང་། དེའི་ནང་མགོ་བརྗོད་ཀྱི་ཡི་གེ་ཆེ་རུ་གཏོང་བ་ལ་རྟགས་ # འདི་འཇོག་དགོས། འདི་ཡོང་བ་ལ་ཐེབས་གཞོང་སྒང་གི་shift + 3 གཉིས་མཉམ་གནོན་བྱས་ན་རྟགས་འདི་འབྲི་ཐུབ། གཤམ་གྱི་དཔེ་རིས་ལ་གཟིགས།
 
-![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/07.png)
+![images](https://github.com/bdrc-reader/mugey-gonpa/blob/master/docs/img/07.png)
 
 <br>
 
@@ -92,7 +92,7 @@
 
 <br>
 
-![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/08.png)
+![images](https://github.com/bdrc-reader/mugey-gonpa/blob/master/docs/img/08.png)
 
 <br>
 <br>
@@ -105,11 +105,11 @@
 
 <br>
 
-[དྲ་ཐག་འདིར་བསྣུན་ཏེ་དཔེ་མཚོན་ལ་གཟིགས།](https://github.com/bdrc-reader/shechen/blob/master/karchak/%E0%BD%98%E0%BC%8B%E0%BD%95%E0%BE%B1%E0%BD%B2%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%91%E0%BD%94%E0%BD%BA%E0%BC%8B%E0%BD%86%E0%BC%8B%E0%BD%81%E0%BD%82%E0%BC%8B%E0%BD%82%E0%BD%B2%E0%BC%8B%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%BC%E0%BD%98%E0%BC%8B%E0%BD%82%E0%BD%9E%E0%BD%B2%E0%BC%8B%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BC%8B%E0%BD%A6%E0%BE%9F%E0%BD%84%E0%BD%A6%E0%BC%8D.tsv) དང་པོ་དཔེ་མཚོན་འདི་སྒོ་ཕྱེས་ཏེ་ངོ་བཤུ་བྱས་ནས་Excel ནང་ཕབ་དགོས། Excel སྒྲིག་སྟེགས་རེའུ་མིག་ནང་བསྐྱར་སྒྲིག་དང་ཡང་ན་ཁ་གསབ་གང་བྱེད་དགོས་ཀྱང་སྒྲིག་སྦྱོར་ལེགས་པོ་བྱས་རྗེས། རང་འཇགས་ཕྱིར་ངོ་བཤུ་བྱས་ཏེ་དྲ་ཚིགས་འདིའི་སྟེགས་བུའི་ནང་ལྡུག་དགོས། Excel སྒྲིག་སྟེགས་རེའུ་མིག་ནང་སྒྲིག་ཚུལ་ལ་གཟིགས།
+[དྲ་ཐག་འདིར་བསྣུན་ཏེ་དཔེ་མཚོན་ལ་གཟིགས།](https://github.com/bdrc-reader/mugey-gonpa/blob/master/karchak/%E0%BD%98%E0%BC%8B%E0%BD%95%E0%BE%B1%E0%BD%B2%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%91%E0%BD%94%E0%BD%BA%E0%BC%8B%E0%BD%86%E0%BC%8B%E0%BD%81%E0%BD%82%E0%BC%8B%E0%BD%82%E0%BD%B2%E0%BC%8B%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%BC%E0%BD%98%E0%BC%8B%E0%BD%82%E0%BD%9E%E0%BD%B2%E0%BC%8B%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BC%8B%E0%BD%A6%E0%BE%9F%E0%BD%84%E0%BD%A6%E0%BC%8D.tsv) དང་པོ་དཔེ་མཚོན་འདི་སྒོ་ཕྱེས་ཏེ་ངོ་བཤུ་བྱས་ནས་Excel ནང་ཕབ་དགོས། Excel སྒྲིག་སྟེགས་རེའུ་མིག་ནང་བསྐྱར་སྒྲིག་དང་ཡང་ན་ཁ་གསབ་གང་བྱེད་དགོས་ཀྱང་སྒྲིག་སྦྱོར་ལེགས་པོ་བྱས་རྗེས། རང་འཇགས་ཕྱིར་ངོ་བཤུ་བྱས་ཏེ་དྲ་ཚིགས་འདིའི་སྟེགས་བུའི་ནང་ལྡུག་དགོས། Excel སྒྲིག་སྟེགས་རེའུ་མིག་ནང་སྒྲིག་ཚུལ་ལ་གཟིགས།
 
 <br>
 
-![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/09.png)
+![images](https://github.com/bdrc-reader/mugey-gonpa/blob/master/docs/img/09.png)
 
 <br>
 
@@ -121,7 +121,7 @@
 
 <br>
 
-![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/11.png)
+![images](https://github.com/bdrc-reader/mugey-gonpa/blob/master/docs/img/11.png)
 
 <br>
 <br>
@@ -134,6 +134,6 @@
 
 <br>
 
-![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/10.png)
+![images](https://github.com/bdrc-reader/mugey-gonpa/blob/master/docs/img/10.png)
 
 
