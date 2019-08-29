@@ -9,6 +9,35 @@
 
 <iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027004&origin=website.com" width="100%" height="600"></iframe>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
 <br>
 
 # དཔེ་ཀློག་སྒེའུ་ཁུང་ངོ་བཤུ་བྱ་ཚུལ།

@@ -10,7 +10,6 @@
 <iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027005&origin=website.com" width="100%" height="600"></iframe>
 
 <br>
-<br>
 
 # འདིར་བཞུགས་པའི་ཆོས་འབྱུང་ཁག་གི་ངོ་སྤྲོད།
 

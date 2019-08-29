@@ -4,7 +4,6 @@
   <a href="https://bdrc-reader.github.io/mugey-gonpa/drubchod">སྒྲུབ་མཆོད།</a> • 
 <a href="https://bdrc-reader.github.io/mugey-gonpa/sungbum">གསུང་འབུམ།</a> • <a href="https://bdrc-reader.github.io/mugey-gonpa/chojung">ཆོས་འབྱུང་།</a> • <span>སྣ་ཚོགས།</span></p>
 
-
 # རིག་གནས་སྣ་ཚོགས་ཀྱི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
 <iframe allowfullscreen allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0027006&origin=website.com" width="100%" height="600"></iframe>
