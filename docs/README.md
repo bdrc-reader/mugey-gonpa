@@ -26,6 +26,8 @@
 
 ### ༣ རྩོམ་སྒྲིག་བྱས་ཟིན་པའི་མ་ཕྱིའི་དཔེ་མཚོན་ལ་གཟིགས། [དཀར་ཆག](https://github.com/bdrc-reader/mugey-gonpa/blob/master/karchak/W1ERI0027.tsv)
 
+### ༤ དཔེ་ཀློག་སྒེའུ་ཁུང་གི་ཨང་བརྡ་Code སྒེར་གྱི་དྲ་ཚིགས་ནང་སྤོ་ཚུལ། [སློབ་ཚན།](https://github.com/buda-base/budax/wiki/1.-%E0%BD%91%E0%BD%94%E0%BD%BA%E0%BC%8B%E0%BD%80%E0%BE%B3%E0%BD%BC%E0%BD%82%E0%BC%8B%E0%BD%A6%E0%BE%92%E0%BD%BA%E0%BD%A0%E0%BD%B4%E0%BC%8B%E0%BD%81%E0%BD%B4%E0%BD%84%E0%BC%8B%E0%BD%82%E0%BD%B2%E0%BC%8B%E0%BD%A8%E0%BD%84%E0%BC%8B%E0%BD%96%E0%BD%A2%E0%BE%A1%E0%BC%8B%E0%BD%A0%E0%BD%87%E0%BD%BC%E0%BD%82%E0%BC%8B%E0%BD%A6%E0%BE%9F%E0%BD%84%E0%BD%A6%E0%BC%8D#%E0%BD%91%E0%BD%94%E0%BD%BA%E0%BD%80%E0%BE%B3%E0%BD%BC%E0%BD%82%E0%BD%A6%E0%BE%92%E0%BD%BA%E0%BD%A0%E0%BD%B4%E0%BD%81%E0%BD%B4%E0%BD%84%E0%BD%82%E0%BD%B2%E0%BD%A8%E0%BD%84%E0%BD%96%E0%BD%A2%E0%BE%A1code-%E0%BD%91%E0%BE%B2%E0%BD%9A%E0%BD%B2%E0%BD%82%E0%BD%A6%E0%BD%93%E0%BD%84%E0%BD%A0%E0%BD%87%E0%BD%BC%E0%BD%82%E0%BD%A6%E0%BE%9F%E0%BD%84%E0%BD%A6)
+
 <br>
 
 # དཔེ་ཀློག་སྒེའུ་ཁུང་གི་ངོ་སྤྲོད་མདོར་བསྡུས།
